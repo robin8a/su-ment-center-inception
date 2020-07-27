@@ -1,5 +1,6 @@
 # References
 - [raccoongang: Muy buena comparación](https://raccoongang.com/blog/lms-comparison-what-lms-suits-your-needs-best/)
+- [Best Learning Management System](https://www.g2.com/categories/learning-management-system-lms)
 - [softwareworld](https://www.softwareworld.co/top-learning-management-system-software/)
 - [Google Clasroom vs Moodle](https://www.trustradius.com/compare-products/google-classroom-vs-moodle#:~:text=Google%20Classroom%20and%20Moodle%20are,Moodle%20is%20more%20broadly%20applicable.)
 -[The Top Open Source Learning Management Systems [2019 Update]](https://elearningindustry.com/top-open-source-learning-management-systems)
@@ -21,6 +22,8 @@ https://elearningindustry.com/the-20-best-learning-management-systems
 
 # Usar una plataforma que cumpla con la mayoria de requisitos
 ## Propietario
+
+### Google Classroom
 - [Google classroom](https://classroom.google.com/)
 
 Google Classroom is a free web service developed by Google for schools that aims to simplify creating, distributing, and grading assignments. The primary purpose of Google Classroom is to streamline the process of sharing files between teachers and students. Wikipedia
@@ -28,6 +31,13 @@ Operating system: iOS; Android; web browser
 Initial release date: August 12, 2014
 Developed by: Google
 
+### Lifter LMS
+- [Lifter LMS](https://lifterlms.com/)
+- [Propuesta basada en SmartBeemo](./SmartBeemoProposal.md)
+
+### Canvas
+
+- [Canvas Reviews & Product Details](https://www.g2.com/products/canvas/reviews)
 
 
 ## Open Source
@@ -51,15 +61,14 @@ Developer(s): Martin Dougiamas; Moodle HQ; Moodle Community
 Stable release: 3.9 / 15 June 2020; 36 days ago
 Awards: O'Reilly Open Source Award for Best Education Enabler
 - [Moodle](https://moodle.org/)
+- [Moodle API](https://docs.moodle.org/dev/Core_APIs)
 
 
 # Benchmark
 - [Domestika](https://www.domestika.org/en)
-
-
+- [Pluralsight  ](https://www.pluralsight.com/)
+- [Platzu](https://platzi.com/)
 - Edx
 - Courera
 - Udemy
 - Khan Academy
-- Domestick
-
